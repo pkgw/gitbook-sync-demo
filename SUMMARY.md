@@ -1,4 +1,5 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [This is the landing page](README.md)
+* [Second page](second-page.md)
 
